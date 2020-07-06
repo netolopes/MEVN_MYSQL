@@ -1,0 +1,19 @@
+npm init
+https://bezkoder.com/node-js-jwt-authentication-mysql/
+npm install express sequelize mysql2 body-parser cors jsonwebtoken bcryptjs --save
+create server.js
+node server.js
+sequelize: cria as funcoes de crud
+Sequelize Many-to-Many Association:https://bezkoder.com/sequelize-associate-many-to-many/
+
+====================================================
+## VUE, VUEX ###
+https://bezkoder.com/jwt-vue-vuex-authentication/
+vue ui(vuex e router)
+npm install vee-validate@2.2.15
+npm install axios
+npm install bootstrap jquery popper.js
+npm install @fortawesome/fontawesome-svg-core @fortawesome/free-solid-svg-icons @fortawesome/vue-fontawesome
+
+
+npx vue-cli-service serve
